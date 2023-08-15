@@ -1,7 +1,7 @@
 # File Encrypter and Decrypter
 File encrypter and decrypter written in Python.
 
-. Uses a key generator to create a file key.
+- Uses a key generator to create a file key.
 
 # Usage
 1. Run the key generator.
